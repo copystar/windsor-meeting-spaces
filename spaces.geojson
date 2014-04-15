@@ -16,6 +16,70 @@
         "address": "2800 Tecumseh RD E",
         "note": "Community Account holders can apply for free use of a community boardroom"
       }
+    },  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.004335,
+          42.300218
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Public Library - South Walkerville Branch Meeting Room",
+        "address": "1425 Tecumseh Road",
+        "note": "Max. 20 - $100 regular fee - $60 for non-profits"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.952774,
+          42.297816
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Public Library - Fontainebleau Branch Tutorial Room",
+        "address": "3030 Rivard Avenue",
+        "note": "Max. 12 - $60 regular fee - $36 for non-profits"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.049660,
+          42.296840
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Public Library - Bridgeview Branch Tutorial Room",
+        "address": "1295 Campbell Avenue",
+        "note": "Max. 7 - $40 regular fee - $24 for non-profits"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.961592,
+          42.329826
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Public Library - Riverside Branch Tutorial Rooom",
+        "address": "6305 Wyandotte Street East",
+        "note": "Max. 20 - $100 regular fee - $60 for non-profits"
+      }
     },
     {
       "type": "Feature",
@@ -28,9 +92,9 @@
       },
       "properties": {
         "marker-symbol": "circle",
-        "name": "Windsor Public Library: Central Branch: Fred Israel Auditorium (Max.200)",
+        "name": "Windsor Public Library: Central Branch: Tutorial Room",
         "address": "850 Ouellette AVE , Windsor",
-        "note": "$300 regular fee - $180 for non-profits"
+        "note": "$50 regular fee - $30 for non-profits"
       }
     }   
   ]
