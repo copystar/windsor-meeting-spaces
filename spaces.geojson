@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.987697,
+          42.303675
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Family Credit Union",
+        "address": "2800 Tecumseh RD E",
+        "note": "Community Account holders can apply for free use of a community boardroom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.034989,
+          42.311257
+        ]
+      },
+      "properties": {
+        "marker-symbol": "circle",
+        "name": "Windsor Public Library: Central Branch: Fred Israel Auditorium (Max.200)",
+        "address": "850 Ouellette AVE , Windsor",
+        "note": "$300 regular fee - $180 for non-profits"
+      }
+    }   
+  ]
+}
