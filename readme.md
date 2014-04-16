@@ -2,7 +2,6 @@
 
 ### A collaborative list of locations in Windsor, Ontario where a small group could hold a formal meeting
 
-*Because coding together is better than coding alone (TM)*
 
 ### [The Map](spaces.geojson)
 
