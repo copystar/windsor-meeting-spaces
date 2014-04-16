@@ -1,13 +1,10 @@
-# DC WiFi Social
+# Windsor Meeting Spaces
 
-<img src="https://travis-ci.org/benbalter/dc-wifi-social.png">
-
-
-### A collaborative list of DC locations that serve up both Internet and Alcohol
+### A collaborative list of locations in Windsor, Ontario where a small group could hold a formal meeting
 
 *Because coding together is better than coding alone (TM)*
 
-### [The Map](bars.geojson)
+### [The Map](spaces.geojson)
 
 ## License
 
@@ -16,7 +13,7 @@ CC-BY-SA
 ## How to contribute
 
 1. Fork the project
-2. Add or edit a location by editing and following the format in `bars.geojson` (hint, it's geoJSON)
+2. Add or edit a location by editing and following the format in `spaces.geojson` (hint, it's geoJSON)
 3. Submit a pull request
 
 ## Validating the geoJSON
@@ -27,8 +24,8 @@ If you'd like to check yourself, you can run `./script/cibuild` locally, or past
 
 ## How to find the lat/long of a location
 
-Pop it into http://geocoder.us/. Boom.
+Pop it into http://geocoder.ca/
 
-## Why?
+## Moar info?
 
-Don't ask such questions.
+This is a fork of dc-wifi-social.
